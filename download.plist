@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://192.168.2.220:8082/Meishi.ipa</string><!--修改这里-->
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                 <string>com.ee.marco.ios</string><!--修改这里-->
+                 <key>bundle-version</key>
+                <string>3.0.0</string><!--修改这里-->
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>伴伴</string><!--修改这里-->
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
