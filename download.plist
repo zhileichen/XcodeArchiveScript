@@ -16,7 +16,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                 <string>com.ee.marco.ios</string><!--修改这里-->
+                 <string>com.ee.xianshi.ios</string><!--修改这里-->
                  <key>bundle-version</key>
                 <string>3.0.0</string><!--修改这里-->
                 <key>kind</key>
