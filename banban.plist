@@ -10,13 +10,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.2.220:8082/Banban.ipa</string><!--修改这里-->
+                    <string>http://192.168.2.220/Banban.ipa</string><!--修改这里-->
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                 <string>com.imbb.banban.ios</string><!--修改这里-->
+                 <string>com.im.banban.ios</string><!--修改这里-->
                  <key>bundle-version</key>
                 <string>1.0.0</string><!--修改这里-->
                 <key>kind</key>
